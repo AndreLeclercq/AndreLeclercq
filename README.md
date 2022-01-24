@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AndreLeclercqOclock
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Javascript
+- 📫 How to reach me Javascript.... or email ;)
