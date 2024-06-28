@@ -4,7 +4,7 @@ I am a fullstack web developer mainly Javascript. I currently work in Oclock Sch
 
 - 🔭 I'm currently working on the design of a new backend developer training and the tools adapted to it. :sunglasses:
 - 👀 I’m interested in WebDev, GameDev and a lot of things
-- 🌱 I’m currently learning Nuxt / Asciidoc / Antora
+- 🌱 I’m currently learning Rust 🦀
 
 ## FindMe
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andre-leclercq/)
