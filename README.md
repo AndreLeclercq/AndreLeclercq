@@ -3,7 +3,7 @@
 I am a fullstack web developer mainly Javascript. I currently work in Oclock School as a Pedagogical Helper. I support learners during their training and I am also in charge of creating educational content and developing certain tools for the school.
 
 - 🔭 I'm currently working on the design of a new backend developer training and the tools adapted to it. :sunglasses:
-- 👀 I’m interested in WebDev, GameDev and a lot of things
+- 👀 I’m interested in WebDev, GameDev, Rust and a lot of things
 - 🌱 I’m currently learning Rust 🦀
 
 ## FindMe
