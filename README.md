@@ -30,7 +30,9 @@ I am a fullstack web developer mainly Javascript. I currently work in Oclock Sch
 
 <code><img alt="I love Debian" height="32" width="32" src="https://cdn.simpleicons.org/debian" /></code>
 <code><img alt="I love KDE" height="32" width="32" src="https://cdn.simpleicons.org/kde" /></code>
+<code><img alt="I love Vivaldi" height="32" width="32" src="https://cdn.simpleicons.org/vivaldi" /></code>
 <code><img alt="I love Asciidoctor" height="32" width="32" src="https://cdn.simpleicons.org/asciidoctor" /></code>
+<code><img alt="I love OBS Studio" height="32" width="32" src="https://cdn.simpleicons.org/obsstudio" /></code>
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreleclercqoclock&layout=compact&count_private=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
