@@ -8,6 +8,7 @@ I am a fullstack web developer mainly Javascript. I currently work in Oclock Sch
 
 ## FindMe
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andre-leclercq/)
+[![](https://img.shields.io/badge/mastodon-%236364FF?style=for-the-badge&logo=mastodon&logoColor=%23FFFFFF)](https://toot.cat/@leifer)
 
 ## Stacks & Language & Tools & Misc....
 <code><img alt="I love Linux" height="32" width="32" src="https://cdn.simpleicons.org/linux" /></code>
