@@ -2,9 +2,9 @@
 
 I am a fullstack web developer mainly Javascript. I currently work in Oclock School as a Pedagogical Helper. I support learners during their training and I am also in charge of creating educational content and developing certain tools for the school.
 
-- 🔭 I'm currently working on developing a blog based on markdown files, all in Rust 🦀.
+- 🔭 I'm currently working on developing an UDP P2P Network for games, all in Rust 🦀.
 - 👀 I’m interested in WebDev, GameDev, Rust 🦀 and a lot of things.
-- 🌱 I’m currently learning Rust 🦀 and I try (again) React...
+- 🌱 I’m currently learning Rust 🦀 
 
 ## FindMe
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andre-leclercq/)
