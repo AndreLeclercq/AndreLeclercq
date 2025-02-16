@@ -36,5 +36,5 @@ I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passio
 ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreleclercq&count_private=true&theme=calm)
 
 ## Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLeclercq&repo=pdf2chunks)](https://github.com/AndreLeclercq/pdf2chunks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLeclercq&repo=cachectl)](https://github.com/AndreLeclercq/cachectl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLeclercq&repo=pdf2chunks&theme=calm)](https://github.com/AndreLeclercq/pdf2chunks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLeclercq&repo=cachectl&theme=calm)](https://github.com/AndreLeclercq/cachectl)
