@@ -30,7 +30,7 @@ I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passio
 <code><img alt="I love Claude AI" height="32" width="32" src="https://cdn.simpleicons.org/claude" /></code>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreleclercqoclock&layout=compact&count_private=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreleclercq&layout=compact&count_private=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreleclercqoclock&count_private=true&theme=calm)
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreleclercq&count_private=true&theme=calm)
 
