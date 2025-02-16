@@ -1,3 +1,4 @@
+
 # 👋🏻 Hi, I’m André 🇫🇷 🐧
 
 I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passionate about guiding the next generation of developers. While my journey began in web development with JavaScript/NodeJS, I'm currently exploring systems programming with Rust and AI with Python. I enjoy learning across different domains of software development, from web technologies to lower-level programming. I believe in the open-source philosophy and share my learning projects to contribute to the developer community.
@@ -34,3 +35,6 @@ I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passio
 
 ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreleclercq&count_private=true&theme=calm)
 
+## Current Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLeclercq&repo=pdf2chunks)](https://github.com/AndreLeclercq/pdf2chunks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLeclercq&repo=cachectl)](https://github.com/AndreLeclercq/cachectl)
