@@ -31,9 +31,10 @@ I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passio
 <code><img alt="I love Claude AI" height="32" width="32" src="https://cdn.simpleicons.org/claude" /></code>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreleclercq&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreleclercq&count_private=true&theme=calm)
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreleclercq&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreleclercq&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" />
+</div>
 
 ## Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLeclercq&repo=cachectl&theme=calm&description_lines_count=2)](https://github.com/AndreLeclercq/cachectl)
