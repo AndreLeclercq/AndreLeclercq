@@ -12,23 +12,23 @@ I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passio
 - Show me your Dotfiles and I'll tell you who you are. [This is mine](https://github.com/AndreLeclercq/dotfiles).
 
 ## Icons about me
-<code><img alt="I love Linux" height="32" width="32" src="https://cdn.simpleicons.org/linux" /></code>
-<code><img alt="I use Arch BTW" height="32" width="32" src="https://cdn.simpleicons.org/archlinux" /></code>
-<code><img alt="I love NeoVim" height="32" width="32" src="https://cdn.simpleicons.org/neovim" /></code>
-<code><img alt="I love GIT" height="32" width="32" src="https://cdn.simpleicons.org/git" /></code>
-<code><img alt="I love Alacritty" height="32" width="32" src="https://cdn.simpleicons.org/alacritty" /></code>
-
-<code><img alt="I love Rust" height="32" width="32" src="https://cdn.simpleicons.org/rust" /></code>
-<code><img alt="I love Python" height="32" width="32" src="https://cdn.simpleicons.org/python" /></code>
-<code><img alt="I love Javascript" height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></code>
-<code><img alt="I love Postgresql" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" /></code>
-<code><img alt="I love Supabase" height="32" width="32" src="https://cdn.simpleicons.org/supabase" /></code>
-
-<code><img alt="I love Firefox" height="32" width="32" src="https://cdn.simpleicons.org/firefox" /></code>
-<code><img alt="I love Duck Duck Go" height="32" width="32" src="https://cdn.simpleicons.org/duckduckgo" /></code>
-<code><img alt="I love Godot Engine" height="32" width="32" src="https://cdn.simpleicons.org/godotengine" /></code>
-<code><img alt="I love OBS Studio" height="32" width="32" src="https://cdn.simpleicons.org/obsstudio" /></code>
-<code><img alt="I love Claude AI" height="32" width="32" src="https://cdn.simpleicons.org/claude" /></code>
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+  <img height="48" src="https://cdn.simpleicons.org/linux?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/archlinux?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/neovim?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/alacritty?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/git?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/rust?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/python?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/postgresql?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/supabase?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/firefox?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/duckduckgo?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/godotengine?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/obsstudio?viewbox=auto" />
+  <img height="48" src="https://cdn.simpleicons.org/claude?viewbox=auto" />
+</div>
 
 ## Stats
 <div style="display: flex; align-items: flex-start; gap: 10px;">
