@@ -32,8 +32,8 @@ I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passio
 
 ## Stats
 <div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreleclercq&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreleclercq&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreleclercq&theme=calm&show_icons=true&hide_border=false&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreleclercq&theme=calm&show_icons=true&hide_border=false&count_private=true" />
 </div>
 
 ## Current Projects
