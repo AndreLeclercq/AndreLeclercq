@@ -7,7 +7,7 @@ I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passio
 - 🌱 I’m currently learning Rust 🦀 & Python 🐍.
 
 ## Find Me
-- Share things on [LinkedIn](https://www.linkedin.com/in/andre-leclercq/)
+- Share things on [LinkedIn](https://www.linkedin.com/in/andre-leclercq/) & [BlueSky](https://bsky.app/profile/le-andre.bsky.social)
 - Learn things on [Twitch](https://www.twitch.tv/sudo_learn_things) and sometimes on [Oclock Channel](https://www.twitch.tv/oclock_io).
 - Show me your Dotfiles and I'll tell you who you are. [This is mine](https://github.com/AndreLeclercq/dotfiles).
 
