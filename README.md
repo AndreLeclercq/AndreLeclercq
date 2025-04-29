@@ -12,23 +12,8 @@ I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passio
 - Show me your Dotfiles and I'll tell you who you are. [This is mine](https://github.com/AndreLeclercq/dotfiles).
 
 ## Icons about me
-<div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img height="48" src="https://cdn.simpleicons.org/linux?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/archlinux?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/neovim?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/alacritty?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/git?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/rust?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/python?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/postgresql?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/supabase?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/firefox?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/duckduckgo?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/godotengine?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/obsstudio?viewbox=auto" />
-  <img height="48" src="https://cdn.simpleicons.org/claude?viewbox=auto" />
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,neovim,git,rust,py,js,postgres,supabase,nodejs,godot&theme=light)](https://skillicons.dev)
 
 ## Stats
 <div style="display: flex; align-items: flex-start; gap: 10px;">
