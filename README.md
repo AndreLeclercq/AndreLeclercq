@@ -22,5 +22,4 @@ I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passio
 </div>
 
 ## Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLeclercq&repo=pdf2chunks&theme=calm&description_lines_count=2)](https://github.com/AndreLeclercq/pdf2chunks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLeclercq&repo=cachectl&theme=calm&description_lines_count=2)](https://github.com/AndreLeclercq/cachectl)
