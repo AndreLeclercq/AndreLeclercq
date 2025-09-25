@@ -1,25 +1,88 @@
-# 👋🏻 Hi, I’m André 🇫🇷 🐧
+# 👋🏻 Hi, I’m André 🇫🇷🐧🦀
 
-I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passionate about guiding the next generation of developers. While my journey began in web development with JavaScript/NodeJS, I'm currently exploring systems programming with Rust and AI with Python. I enjoy learning across different domains of software development, from web technologies to lower-level programming. I believe in the open-source philosophy and share my learning projects to contribute to the developer community.
+## Tech Lead transitioning to AI/Data | Rust • Python • RAG
 
-- 🔭 I'm currently working on a ssh manager in Rust.
-- 👀 I’m interested in WebDev, GameDev, Rust and a lot of things.
-- 🌱 I’m currently learning DATA/AI.
+**Fullstack Developer transitioning to Data Engineering** 🚀  
+Specialized in Rust for performance, exploring RAG technologies and AI analysis.
 
-## Find Me
-- Share things on [LinkedIn](https://www.linkedin.com/in/andre-leclercq/) & [BlueSky](https://bsky.app/profile/le-andre.bsky.social)
-- Learn things on [Twitch](https://www.twitch.tv/sudo_learn_things).
-- Show me your Dotfiles and I'll tell you who you are. [This is mine](https://github.com/AndreLeclercq/dotfiles).
+---
 
-## Icons about me
+## 🎯 2025 Transition Focus
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,neovim,git,docker,rust,py,js,postgres,supabase,nodejs,godot&theme=light)](https://skillicons.dev)
+- **RAG Systems** : Experimenting with Qdrant + MistralAI 
+- **Data Engineering** : Self-taught learning, formal training planned end of 2025
+- **Performance Engineering** : Rust for critical components and APIs
+- **AI Integration** : Ollama, HuggingFace, automated analysis
 
-## Stats
+## 🔧 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,neovim,git,docker,rust,py,js,postgres,nodejs&theme=light)](https://skillicons.dev)
+
+**Backend** : Loco.rs, Node.js  
+**Databases** : PostgreSQL, Qdrant (vector DB), Redis  
+**AI/ML** : MistralAI, Ollama, HuggingFace  
+**DevOps** : Docker, Linux, Shell scripting
+
+## 🚀 Current Projects
+
+### ⚡ SSHCTL - Rust CLI Tool
+SSH management tool built entirely in Rust
+- **Status** : Active | **Repo** : Available
+- **Focus** : Performance, security, CLI ergonomics
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLeclercq&repo=sshctl&theme=calm&description_lines_count=2)](https://github.com/AndreLeclercq/sshctl)
+
+### 🔍 SEO AI Analyzer (Coming Soon)
+Experimental SEO analysis project with AI integration
+- **Stack** : Rust/Python, MistralAI, content analysis
+- **Status** : Starting soon
+- **Goal** : Explore AI applications in SEO optimization
+
+### 🎯 First RAG Project (Planned)
+RAG architecture for real-world use case with Qdrant + MistralAI
+- **Timeline** : Starting in the coming days
+- **Focus** : Hands-on learning of RAG systems
+- **Documentation** : Will be shared as open source
+
+## 📊 GitHub Stats
+
 <div style="display: flex; align-items: flex-start; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreleclercq&theme=calm&show_icons=true&hide_border=false&layout=compact" />
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreleclercq&theme=calm&show_icons=true&hide_border=false&count_private=true" />
 </div>
 
-## Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLeclercq&repo=cachectl&theme=calm&description_lines_count=2)](https://github.com/AndreLeclercq/sshctl)
+## 🌱 Currently Learning
+
+- **Self-taught** : RAG systems, vector databases, LLM integration
+- **Exploring** : MistralAI, Ollama, HuggingFace, Qdrant
+- **Data Engineer training** : Planned for end of 2025 (part-time)
+- **Transition** : Towards entrepreneurship in 9-12 months
+
+## 💡 2025 Goals
+
+**Short term** : Master RAG systems and AI integration  
+**Medium term** : Become proficient Data Engineer  
+**Long term** : Prepare entrepreneurial transition in French AI ecosystem
+
+---
+
+## 🤝 Contact & Collaboration
+
+- 📧 **Email** : andre.leclercq.io@protonmail.com
+- 💼 **LinkedIn** : [andre-leclercq](https://www.linkedin.com/in/andre-leclercq/)
+- 🎯 **Open to** : collaborative projects, technical exchanges, experience sharing
+
+> *"Actively transitioning to Data/AI: sharing learning journey and building concrete projects."*
+
+---
+
+### 📈 Progress Tracking (Regular Updates)
+
+- **Rust Projects** : 1 active (SSHCTL)
+- **AI Experimentation** : MistralAI, Ollama, HuggingFace tested
+- **Next Steps** : First RAG system, AI-powered SEO analysis
+- **Training** : Data Engineer program scheduled Q4 2025
+
+---
+
+*Last updated: September 2025*
