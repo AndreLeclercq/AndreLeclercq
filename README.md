@@ -13,7 +13,7 @@ I'm a web development pedagogical mentor at [O'clock](https://oclock.io), passio
 
 ## Icons about me
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,neovim,git,rust,py,js,postgres,supabase,nodejs,godot&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,neovim,git,docker,rust,py,js,postgres,supabase,nodejs,godot&theme=light)](https://skillicons.dev)
 
 ## Stats
 <div style="display: flex; align-items: flex-start; gap: 10px;">
