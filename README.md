@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I’m André 🇫🇷🐧🦀
 
-## Tech Lead transitioning to AI/Data | Rust • Python • RAG
+## Tech Lead transitioning to AI/Data | Rust • RAG
 
 **Fullstack Developer transitioning to Data Engineering** 🚀  
 Specialized in Rust for performance, exploring RAG technologies and AI analysis.
